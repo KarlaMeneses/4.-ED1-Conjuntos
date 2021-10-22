@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2020/09/09 18:07:03.000.843,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2020/09/09 18:07:03.000.966,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/09 18:07:03.000.843,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/01/08 09:02:25.000.846,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/01/08 09:02:26.000.006,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2021/01/12 13:49:41.000.455,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2021/01/12 13:49:41.000.054,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/01/24 21:40:46.000.636,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
     <Transaction>2021/01/24 21:40:46.000.513,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/01/24 21:41:16.000.180,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Principal.cpp</Transaction>
-    <Transaction>2021/01/24 21:42:34.000.141,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Practicaconjunto.h</Transaction>
-    <Transaction>2021/01/24 21:42:59.000.541,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Practicaconjunto.cbproj</Transaction>
+    <Transaction>2021/01/24 21:40:46.000.636,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/01/24 21:41:16.000.180,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Principal.cpp=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/01/24 21:42:34.000.141,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Practicaconjunto.h=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/24 21:42:59.000.541,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Practicaconjunto.cbproj=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>2021/01/24 22:00:44.000.470,=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Unit1.cpp</Transaction>
-    <Transaction>2021/01/24 22:01:06.000.548,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Unit1.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\UConjuntolistapuntero.cpp</Transaction>
-    <Transaction>2021/01/24 22:01:06.000.548,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Unit1.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\UConjuntolistapuntero.h</Transaction>
+    <Transaction>2021/01/24 22:01:06.000.548,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\UConjuntolistapuntero.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Unit1.h</Transaction>
+    <Transaction>2021/01/24 22:01:06.000.548,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\UConjuntolistapuntero.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 4\Practicas Modelo de examen\Unit1.cpp</Transaction>
     <Transaction>2021/01/24 22:01:44.000.895,=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 2\Practicas Modelo de examen\UListapuntero.cpp</Transaction>
   </Transactions>
 </BorlandProject>
